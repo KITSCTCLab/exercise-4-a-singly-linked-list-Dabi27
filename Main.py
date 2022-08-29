@@ -1,4 +1,7 @@
-from typing import Optional
+from
+typing 
+import 
+Optional
 
 
 class Node:
@@ -127,4 +130,4 @@ for data in data_for_second_list:
 solution = Solution()
 # Pass first_list and second_list to addTwoNumbers, which returns a new linked list
 new_list 
-...
+
